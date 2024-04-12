@@ -8,7 +8,7 @@
         "Save restricted content",
         "bot"
     ],
-    "repository": "https://github.com/devgaganin/",
+    "repository": "https://github.com/",
     "website": "",
     "success_url": "https://t.me/privatearjun",
     "env": {
